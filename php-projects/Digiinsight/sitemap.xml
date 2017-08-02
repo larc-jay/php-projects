@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.digiinsight.com/</loc>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/data-science-with-spark</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/microsoft-azure-for-aws-experts</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/leading-safe-40</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/certified-scrum-master-csm</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/scala-fundamentals</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-developer-training-for-spark-and-hadoop-devsh</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/certified-devops-fundamentals-dasa</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/courses</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/trainingcalendar</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/pages/privacy_policy</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/pages/contact</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursedetails/xebia-it-architects-india-pvt-ltd/certified-scrum-master-csm/32</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursedetails/knowledgehut-solutions/certified-scrum-master-csm/56</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursedetails/xebia-it-architects-india-pvt-ltd/cloudera-developer-training-for-spark-and-hadoop-devsh/2</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursedetails/xebia-it-architects-india-pvt-ltd/certified-devops-fundamentals-dasa/55</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-designing-and-building-big-data-applications</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-administrator-training-for-apache-hadoop</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-developer-for-apache-spark</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-training-for-apache-hbase</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-data-analyst-training</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/introduction-to-big-data</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-data-scientist</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/data-visualization-using-kibana</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/cloudera-developer-for-apache-hadoop</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/data-science-with-python</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/data-science-with-julia</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-foundation-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-service-transition-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-service-strategy-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-service-design-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-service-operation-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-continual-service-improvement-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-service-offerings-and-agreements-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-operational-support-and-analysis-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-planning-protection-and-optimization-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-intermediate-release-control-and-validation-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/itil-expert-managing-across-the-lifecycle-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/safe-program-consultant-spc-training-certification</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/safe-agilist-sa</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/scrum-foundation</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/product-owner-foundation</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/professional-scrum-developer-psd</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/agile-business-analyst</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/certified-scrum-product-owner-cspo</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/advanced-scrum-master</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/coach-the-coach</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/agile-testing</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/test-automation-for-agile-team-members</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/test-driven-development-tdd</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/devops-training</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/continuous-delivery-core-concepts</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/continuous-integration</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/developing-microsoft-azure-solutions</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/implementing-microsoft-azure-infrastructure-solutions</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/microsoft-azure-fundamentals</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/microsoft-azure-for-it-professionals</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/angularjs</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/mobile-testing</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/clean-coding</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/java-8</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/agilencr-2016-evolution-of-the-agile-revolution</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/xamarin-essential-kick-starter-training</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/selenium-tool</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursesvenders/business-case-writing-training</loc>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursedetails/xebia-it-architects-india-pvt-ltd/certified-scrum-product-owner-cspo/33</loc>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.digiinsight.com/courses/coursedetails/knowledgehut-solutions/certified-scrum-product-owner-cspo/57</loc>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
